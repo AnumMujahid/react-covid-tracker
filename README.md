@@ -1,20 +1,16 @@
-## Introduction
+## Covid-19 Tracker
 
-It is a covid 19 tracker clone project built using react. React hooks useEffect and useState are used in the project. The data is taken from [disease.sh](https://disease.sh/) using the API key. To check the deployed version [visit](https://covid-tracker-by-anum.web.app/)
+It is a covid 19 tracker clone project built using react. The application displays total cases, recoverd cases, and total deaths caused by covid. This stats are displayed on the map and graph as well. React hooks useEffect and useState are used in the project. The data is taken from [disease.sh](https://disease.sh/) using the API. To check the deployed version visit [link](https://covid-tracker-by-anum.web.app/).
 
-## Setup the environment
+## How to Use
 
-1. Ensure npm is installed on your machine
-2. Run the following command in project directory to install required dependencies:
+- Clone the repository.
+- Ensure npm is installed on your machine
+- Run command **npm install** in project directory to install required dependencies.
+- Run command **npm start** to start the application in development mode.
 
-### `npm install`
+## Screenshots
 
-### `npm start`
+![Maps and Grpahs of Covid 19](https://github.com/AnumMujahid/react-covid-tracker/blob/main/c1.png)
 
-3. Run the following command to start the application in development mode:
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+*Screenshot 1: Covid-19 Tracker*
